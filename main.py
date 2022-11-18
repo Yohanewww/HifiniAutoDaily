@@ -5,8 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 import os
 
-yohaneUsername = "Yohane_0w0"
-yohanePw = "Yohane910"
+
 options = Options()
 # driver = webdriver.Chrome(options=options)
 
